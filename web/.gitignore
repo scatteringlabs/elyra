@@ -55,7 +55,7 @@ pnpm-lock.yaml
 # mise
 mise.toml
 
-# development enviroment
+# development environment
 .idea/*
 uploads/*
 temp
